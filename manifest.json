@@ -1,0 +1,17 @@
+{
+  "manifestVersion": 1,
+  "id": "eclipse",
+  "name": "Eclipse",
+  "description": "An OLED theme for Remnote",
+  "author": "sentfromthehub",
+  "repoUrl": "https://github.com/sentfromthehub/eclipse-remnote",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0
+  },
+  "enableOnMobile": true,
+  "theme": ["dark"],
+  "requestNative": false,
+  "requiredScopes": []
+}
