@@ -2,7 +2,6 @@
   --bg-primary: #000;
 }
 
-
 .highlight-color--red {
   background-color: rgba(136, 0, 0, 0.8) !important;
   color: #fff !important;
@@ -102,4 +101,41 @@ div[data-plugin-id="demo-tabs"] > div,
 .rn-pane__top-bar,
 .rn-pane__body {
   background: #000 !important;
+}
+
+:root, body, .rn-app {
+  --rn-clr-background-elevation-10: #000000 !important;
+  --rn-clr-background-elevation-20: #000000 !important;
+  --rn-clr-background-elevation-30: #000000 !important;
+  --rn-clr-background-elevation-40: #000000 !important;
+  --rn-clr-background-secondary: #000000 !important;
+}
+
+.rn-queue-container .rn-card3,
+.rn-queue-container .rn-queue,
+.rn-flashcards-home2,
+div[class*="queue-completion"] {
+  background-color: #000000 !important;
+  background: #000000 !important;
+  background-image: none !important;
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.15) !important;
+  border-radius: 12px !important;
+}
+
+.rn-queue-header,
+.rn-queue-footer,
+.rn-pane__top-bar,
+.rn-card-header {
+  background-color: transparent !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.rn-queue-container,
+.rn-flashcards-page-container {
+  background-color: #000000 !important;
+}
+
+.rn-queue-container > div {
+  background-color: transparent !important;
 }
