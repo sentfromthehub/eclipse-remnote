@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src= "https://github.com/sentfromthehub/eclipse-remnote/assets/121725874/8d1a9ae7-468c-4652-af58-b69ab9fb72a2" width="250" />
+<img src= "https://github.com/sentfromthehub/eclipse-remnote/blob/main/logo.png?raw=true" width="350" />
 
 A pitch black theme for Remnote. Crafted primarily for mobile. Requires Dark Mode. Lights out, baby!
 
